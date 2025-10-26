@@ -1,0 +1,7 @@
+{
+  "python.linting.pyrightEnabled": true,
+  "python.linting.enabled": true,
+  "pyright.typeCheckingMode": "basic",
+  "pyright.diagnosticMode": "openFilesOnly",
+  "pyright.reportAttributeAccessIssue": false
+}

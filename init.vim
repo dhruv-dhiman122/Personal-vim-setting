@@ -1,6 +1,8 @@
 :set number
 :set relativenumber
 :set tabstop=4
+:set syntax=cpp.doxygen
+
 syntax on
 
 call plug#begin('~/.local/share/nvim/plugged')
